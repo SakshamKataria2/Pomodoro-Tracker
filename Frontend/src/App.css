@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(241, 236, 236);
+}
+
+h1{
+    text-align: center;
+    color: rgb(5, 14, 21);
+}
+
+Clock{
+    color: rgb(4, 21, 21);
+}
